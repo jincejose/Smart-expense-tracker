@@ -8,6 +8,7 @@ A responsive expense tracker built with React, CSS, JavaScript, Express, and Pos
 npm install
 npm run dev
 ```
+Hosted in vercel:https://smart-expense-tracker-ivory-kappa.vercel.app/
 
 Open [http://localhost:5173](http://localhost:5173). The app starts with sample transactions saved in the browser. You can add, edit, delete, search, filter, and export expenses; set category budgets; and view monthly reports, budget alerts, and an estimated month end spend. Use the currency selector in the top bar to format amounts as USD, INR, EUR, GBP, JPY, CAD, AUD, or SGD. The currency choice is saved in your browser. It changes the displayed currency and number format, but does not convert amounts using exchange rates.
 
